@@ -1,0 +1,12 @@
+/* Exam Scheduler - Tamale Technical University - Requirements */
+
+* Data input Requirements
+** Capture faculty information
+*** Faculty name
+*** Departments 
+*** Programs offered
+*** Courses
+*** Lecturers
+** Venue (Classrooms / Halls)
+*** Name
+*** Capacity

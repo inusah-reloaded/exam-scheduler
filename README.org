@@ -1,0 +1,4 @@
+/* Exam scheduler - Tamale Technical University */
+
+This application is be developed for use by Tamale Technical University Exam Unit for
+Exam scheduling. 
